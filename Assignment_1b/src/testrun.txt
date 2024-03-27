@@ -1,0 +1,95 @@
+<PROJECT 1 - ComputeLoan.java - THIS CODE RETURNS THE MONTHLY & TOTAL PAYMENTS MADE TO PAY OFF A LOAN WITH INTEREST>
+
+		<TEST RUN #1 - user inputs all positive values >
+				Loan Amount: 
+				10000
+				Number of Years: 
+				1
+				Annual Interest Rate: 
+				7
+				
+				Monthly Payment: 865.27
+				Total Payment: 10383.21
+				
+				Payment#	Interest	Principal	Balance
+				1			58.33		806.93		9193.07
+				2			53.63		811.64		8381.42
+				3			48.89		816.38		7565.05
+				4			44.13		821.14		6743.91
+				5			39.34		825.93		5917.98
+				6			34.52		830.75		5087.24
+				7			29.68		835.59		4251.65
+				8			24.80		840.47		3411.18
+				9			19.90		845.37		2565.81
+				10			14.97		850.30		1715.51
+				11			10.01		855.26		860.25
+				12			5.02		860.25		0.00
+
+			
+		<TEST RUN #2 - user attempts to input negative, zero, and decimal values>
+				Loan Amount: 
+				-10000
+				Number of Years: 
+				1
+				Annual Interest Rate: 
+				7
+				
+				Invalid Input Detected. Please input only positive values
+				
+				Loan Amount: 
+				10000
+				Number of Years: 
+				0
+				Annual Interest Rate: 
+				7
+				
+				Invalid Input Detected. Please input only positive values
+				
+				Loan Amount: 
+				0
+				Number of Years: 
+				1
+				Annual Interest Rate: 
+				7
+				
+				Invalid Input Detected. Please input only positive values
+								
+				Loan Amount: 
+				1000
+				Number of Years: 
+				.5
+				Annual Interest Rate: 
+				5
+				
+				Monthly Payment: 169.11
+				Total Payment: 1014.63
+				
+				Payment#	Interest	Principal	Balance
+				1			4.17		164.94		835.06
+				2			3.48		165.63		669.43
+				3			2.79		166.32		503.12
+				4			2.10		167.01		336.11
+				5			1.40		167.71		168.40
+				6			0.70		168.40		0.00
+
+				
+
+<PROJECT 2 - SquareRootApproximation.java - THIS CODE CALCULATES THE SQUARE ROOT VALUE OF ANY POSITIVE NUMBER>
+
+		<TEST RUN #1 - user attempts to input negative value>
+				Enter a number to find the square root approximation of:
+				-4
+				
+				Invalid Input Detected. Please input only positive values
+				
+				Enter a number to find the square root approximation of:
+				4
+				The approximate square root of 4 is 2.000
+			
+			
+		<TEST RUN #2>
+				Enter a number to find the square root approximation of:
+				0
+				The approximate square root of 0 is 0.000                                    
+		
+

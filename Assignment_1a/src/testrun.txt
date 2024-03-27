@@ -1,0 +1,71 @@
+
+<PROJECT 1 - CalculateTotal.java - THIS CODE CALCULATES AND PRINTS THE RECIEPT OF THE ITEMS BOUGHT AND HOW MUCH THEY COST>
+
+		<TEST RUN #1>
+			How many TV's were sold?
+			2
+			How many VCR's were sold?
+			1
+			How many Remote Controller's were sold?
+			4
+			How many CD's were sold?
+			1
+			How many Tape Recorder's were sold?
+			2
+				Quantity	Description                   		     Unit Price		    Total Price
+				 2		TV                            		         400.00		         800.00
+				 1		VCR                           		         220.00		         220.00
+				 4		Remote Controller             		          35.20		         140.80
+				 1		CD                            		         300.00		         300.00
+				 2		Tape Recorder                 		         150.00		         300.00
+			
+		                                                                                1760.80 SUBTOTAL
+		                                                                                 145.27 TAX
+		                                                                                1906.07 TOTAL
+			
+		<TEST RUN #2>
+			How many TV's were sold?
+			3
+			How many VCR's were sold?
+			0
+			How many Remote Controller's were sold?
+			2
+			How many CD's were sold?
+			0
+			How many Tape Recorder's were sold?
+			21
+				Quantity	Description                   		     Unit Price		    Total Price
+				 3		TV                            		         400.00		        1200.00
+				 0		VCR                           		         220.00		           0.00
+				 2		Remote Controller             		          35.20		          70.40
+				 0		CD                            		         300.00		           0.00
+				21		Tape Recorder                 		         150.00		        3150.00
+			
+			                                                                            4420.40 SUBTOTAL
+			                                                                             364.68 TAX
+			                                                                            4785.08 TOTAL
+
+
+<PROJECT 2 - CelsiusFahrenheit.java - THIS CODE CONVERTS CELSIUS TEMPERATURE TO FAHRENHEIT and FAHRENHEIT TEMPERATURE TO CELSIUS>
+
+		<TEST RUN #1>
+			Enter a temperature in Celsius
+			100
+			The temperature in Fahrenheit is 212.0
+			
+			Enter a temperature in Fahrenheit
+			212
+			The temperature in Celsius is 100.0
+			
+			
+		<TEST RUN #2>
+			Enter a temperature in Celsius
+			-55
+			The temperature in Fahrenheit is -67.0
+			
+			Enter a temperature in Fahrenheit
+			-67
+			The temperature in Celsius is -55.0
+
+		                                                                                        
+	                                                                                        

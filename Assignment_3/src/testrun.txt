@@ -1,0 +1,137 @@
+		<TEST RUN #1 - USER ATTEMPTS TO INPUT INVALID VALUES >
+						
+						!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+						!!	      WELCOME TO THE FRANCHISE APP 		!!
+						!!~ We have the data for 6 stores in the last 5 weeks ~ !!
+						!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						7
+						Invalid Input!
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						1
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						9
+						Invalid Input!
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+
+		<TEST RUN #2 - USER INPUTS ALL THE OPERATIONS TO SEE SALES DATA FROM EACH OF THE 6 STORES (THE EXACT INPUT IS 162534435261) >
+					
+						!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+						!!	     	 WELCOME TO THE FRANCHISE APP 				!!
+						!!~ We have the data for 6 stores in the last 5 weeks ~ !!
+						!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						1
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						6
+						Week 1 has the lowest number of sales
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						2
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						5
+						Week 5 has the highest number of sales
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						3
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						4
+						Average Weekly Sales: 4055.886
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						4
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						3
+						Total Sales: 160193.0
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						5
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						2
+						Average Daily Sales per week
+						Week 1: 2350.7144
+						Week 2: 2950.0
+						Week 3: 3559.0
+						Week 4: 4168.0
+						Week 5: 4777.0
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+						6
+						Select an Operation:
+							Enter 1 for total sales for each week
+							Enter 2 for average daily sales for each week
+							Enter 3 for total sales for all weeks
+							Enter 4 for average weekly sales
+							Enter 5 for week with the highest amount in sales
+							Enter 6 for week with the lowest amount in sales
+							Enter 7 for ALL analytical data
+						1
+						Total Sales per week:
+						Week 1: 26906.0
+						Week 2: 31101.0
+						Week 3: 35364.0
+						Week 4: 39627.0
+						Week 5: 43890.0
+						
+						
+						
+						Which store's analytics do you want to see? (Enter a number 1 through 6)
+												

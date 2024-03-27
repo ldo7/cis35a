@@ -1,0 +1,19 @@
+1st LINE - write
+2nd LINE - append this: ABC
+3rd LINE - write
+1st LINE - writenull
+3rd LINE - write/n
+
+1st LINE - write
+2nd LINE - null
+3rd LINE - write
+
+1st LINE - write
+2nd LINE - null
+3rd LINE - write
+1st LINE - write
+2nd LINE - null
+3rd LINE - null
+1st LINE - write
+2nd LINE - null
+3rd LINE - null

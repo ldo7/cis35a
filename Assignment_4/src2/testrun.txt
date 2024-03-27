@@ -1,0 +1,61 @@
+		
+		
+		<TEST RUN #1 - USER ENTERS VARIOUS INFORMATION DEPENDING ON WHICH SHIP TYPES>
+					~~~~~ SHIP ~~~~~ 
+					Name: Abby
+					Is Floating: true
+					Origin: Chile
+					Departure: 11/11/2022
+					Arrival Date: 03/05/2023
+					Departing Port: Brazil
+					Arrival Port: Cuba
+					Owner: Captain Bob
+					Capacity: 7000 people
+					Length: 341 meters
+					Width: 57 meters
+					Height: 82 meters
+					Horn Sound: BEEP BEEP
+					
+					
+					~~~~~ CARGO SHIP ~~~~~ 
+					Name: Cartel A
+					Is Floating: true
+					Origin: Colombia
+					Departure: 01/01/2024
+					Arrival Date: 02/01/2024
+					Departing Port: Thailand
+					Arrival Port: USA
+					Owner: Ms. Smith
+					Capacity: 2700 package units
+					Length: 137 meters
+					Width: 17 meters
+					Height: 9 meters
+					Horn Sound: HONK HONK
+					Cargotype: Drugs
+					Loading Method: via Truck
+					Number of Cranes: 2
+					Cargo Value: $3000000
+					Contraband: true
+					
+					
+					~~~~~ CRUISE SHIP ~~~~~ 
+					Name: Titanic
+					Is Floating: false
+					Origin: England
+					Departure: 04/11/1912 
+					Arrival Date: 04/14/1912 
+					Departing Port: Southampton, England
+					Arrival Port: New York, USA
+					Owner: J.P. Morgan
+					Capacity: 3320 people
+					Length: 269 meters
+					Width: 29 meters
+					Height: 53 meters
+					Horn Sound: BRRRRRR
+					Ticket Price: $400
+					Number of Rooms: 840
+					Buffet Menu: French cuisine
+					Cruise Type: Ocean
+					Services: Suites, Gym, Baths, Swimming Pool, Tennis Court, Barber Shop, Smoking Room, Cafe, Lounge, Staircase, Ballroom
+		                                                                                        
+	                                                                                        

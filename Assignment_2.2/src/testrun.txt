@@ -1,0 +1,74 @@
+<NucleicAcid.java & GenoNucleicAcid.java - THIS CODE CREATES 5 NUCLEIC ACIDS, ASKS THE USER TO INPUT EACH OF THEIR CHEMICAL CHARACTERISTICS, AND THEN PRINTS IT>
+
+		<TEST RUN #1 - User inputs the data for 5 nucleic acids: Cytosine, Adenine, Guanine, Thymine, and Uracil>
+				What is the Name of the Nucleic Acid?
+				Cytosine
+				What is the Chemical Formula?
+				C4H5N3O
+				What is the Molar Mass in g/mol?
+				111.10
+				What is the Density in g/cm^3?
+				1.55
+				
+				Nucleic Acid: Cytosine
+				Chemical Formula: C4H5N3O
+				Molar Mass: 111.100 g/mol
+				Density: 1.550 g/cm^3
+				
+				What is the Name of the Nucleic Acid?
+				Adenine
+				What is the Chemical Formula?
+				C5H5N5
+				What is the Molar Mass in g/mol?
+				135.13
+				What is the Density in g/cm^3?
+				1.6
+				
+				Nucleic Acid: Adenine
+				Chemical Formula: C5H5N5
+				Molar Mass: 135.130 g/mol
+				Density: 1.600 g/cm^3
+				
+				What is the Name of the Nucleic Acid?
+				Guanine
+				What is the Chemical Formula?
+				C5H5N5O
+				What is the Molar Mass in g/mol?
+				151.13
+				What is the Density in g/cm^3?
+				2.200
+				
+				Nucleic Acid: Guanine
+				Chemical Formula: C5H5N5O
+				Molar Mass: 151.130 g/mol
+				Density: 2.200 g/cm^3
+				
+				What is the Name of the Nucleic Acid?
+				Thymine
+				What is the Chemical Formula?
+				C5H6N2O2
+				What is the Molar Mass in g/mol?
+				126.115
+				What is the Density in g/cm^3?
+				1.223
+				
+				Nucleic Acid: Thymine
+				Chemical Formula: C5H6N2O2
+				Molar Mass: 126.115 g/mol
+				Density: 1.223 g/cm^3
+				
+				What is the Name of the Nucleic Acid?
+				Uracil
+				What is the Chemical Formula?
+				C4H4N2O2
+				What is the Molar Mass in g/mol?
+				112.08676
+				What is the Density in g/cm^3?
+				1.32
+				
+				Nucleic Acid: Uracil
+				Chemical Formula: C4H4N2O2
+				Molar Mass: 112.087 g/mol
+				Density: 1.320 g/cm^3
+
+			

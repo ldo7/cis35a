@@ -1,0 +1,481 @@
+
+		<REQ 1 - Driver1.java>
+		<TEST RUN #1 - The user tries to read a file that does not exist, and must input an already existing file name such as StudentData.txt>
+	
+		<Inside Console - This is what the user sees>
+		
+				Inside main
+				Attempting to Open filedoesnotexist.txt....
+				
+				Hmmmm, seems like there's a problem.....
+				
+				OOPS! File does not exist. Please input an existing file name ending with .txt
+				
+				StudentData.txt
+				Attempting to Open StudentData.txt....
+				Now it is done! Your file had been found.
+				
+		<Inside file that logs all exceptions - errorLog.txt >
+				
+				FixProblems [errorno=0, errormsg=null]	                                                                                        
+				
+		
+		<REQ 2 - Driver2.java>
+		<TEST RUN #2 - StudentGrade array with 15 Student's id, scores, and quiz statistics are serialized into 15 different files titled by the > 
+			<student's ID number, and then deserialized, and the deserialized StudentGrade arrray data is printed>
+				1234.txt
+
+				Seralizing...
+				done!
+				
+				2134.txt
+				
+				Seralizing...
+				done!
+				
+				3124.txt
+				
+				Seralizing...
+				done!
+				
+				4532.txt
+				
+				Seralizing...
+				done!
+				
+				5678.txt
+				
+				Seralizing...
+				done!
+				
+				6134.txt
+				
+				Seralizing...
+				done!
+				
+				7874.txt
+				
+				Seralizing...
+				done!
+				
+				8026.txt
+				
+				Seralizing...
+				done!
+				
+				9893.txt
+				
+				Seralizing...
+				done!
+				
+				1947.txt
+				
+				Seralizing...
+				done!
+				
+				2877.txt
+				
+				Seralizing...
+				done!
+				
+				3189.txt
+				
+				Seralizing...
+				done!
+				
+				4602.txt
+				
+				Seralizing...
+				done!
+				
+				5405.txt
+				
+				Seralizing...
+				done!
+				
+				6999.txt
+				
+				Seralizing...
+				done!
+				
+				1234.txt
+				
+				Deserializing...
+				done!
+				
+				2134.txt
+				
+				Deserializing...
+				done!
+				
+				3124.txt
+				
+				Deserializing...
+				done!
+				
+				4532.txt
+				
+				Deserializing...
+				done!
+				
+				5678.txt
+				
+				Deserializing...
+				done!
+				
+				6134.txt
+				
+				Deserializing...
+				done!
+				
+				7874.txt
+				
+				Deserializing...
+				done!
+				
+				8026.txt
+				
+				Deserializing...
+				done!
+				
+				9893.txt
+				
+				Deserializing...
+				done!
+				
+				1947.txt
+				
+				Deserializing...
+				done!
+				
+				2877.txt
+				
+				Deserializing...
+				done!
+				
+				3189.txt
+				
+				Deserializing...
+				done!
+				
+				4602.txt
+				
+				Deserializing...
+				done!
+				
+				5405.txt
+				
+				Deserializing...
+				done!
+				
+				6999.txt
+				
+				Deserializing...
+				done!
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 1234
+				
+				Quiz 1: 52
+				
+				Quiz 2: 7
+				
+				Quiz 3: 100
+				
+				Quiz 4: 78
+				
+				Quiz 5: 34
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 2134
+				
+				Quiz 1: 90
+				
+				Quiz 2: 36
+				
+				Quiz 3: 90
+				
+				Quiz 4: 77
+				
+				Quiz 5: 30
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 3124
+				
+				Quiz 1: 100
+				
+				Quiz 2: 45
+				
+				Quiz 3: 20
+				
+				Quiz 4: 90
+				
+				Quiz 5: 70
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 4532
+				
+				Quiz 1: 11
+				
+				Quiz 2: 17
+				
+				Quiz 3: 81
+				
+				Quiz 4: 32
+				
+				Quiz 5: 77
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 5678
+				
+				Quiz 1: 20
+				
+				Quiz 2: 12
+				
+				Quiz 3: 45
+				
+				Quiz 4: 78
+				
+				Quiz 5: 34
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 6134
+				
+				Quiz 1: 34
+				
+				Quiz 2: 80
+				
+				Quiz 3: 55
+				
+				Quiz 4: 78
+				
+				Quiz 5: 45
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 7874
+				
+				Quiz 1: 60
+				
+				Quiz 2: 100
+				
+				Quiz 3: 56
+				
+				Quiz 4: 78
+				
+				Quiz 5: 78
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 8026
+				
+				Quiz 1: 70
+				
+				Quiz 2: 10
+				
+				Quiz 3: 66
+				
+				Quiz 4: 78
+				
+				Quiz 5: 56
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 9893
+				
+				Quiz 1: 34
+				
+				Quiz 2: 9
+				
+				Quiz 3: 77
+				
+				Quiz 4: 78
+				
+				Quiz 5: 20
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 1947
+				
+				Quiz 1: 45
+				
+				Quiz 2: 40
+				
+				Quiz 3: 88
+				
+				Quiz 4: 78
+				
+				Quiz 5: 55
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 2877
+				
+				Quiz 1: 55
+				
+				Quiz 2: 50
+				
+				Quiz 3: 99
+				
+				Quiz 4: 78
+				
+				Quiz 5: 80
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 3189
+				
+				Quiz 1: 22
+				
+				Quiz 2: 70
+				
+				Quiz 3: 100
+				
+				Quiz 4: 78
+				
+				Quiz 5: 77
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 4602
+				
+				Quiz 1: 89
+				
+				Quiz 2: 50
+				
+				Quiz 3: 91
+				
+				Quiz 4: 78
+				
+				Quiz 5: 60
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 5405
+				
+				Quiz 1: 11
+				
+				Quiz 2: 11
+				
+				Quiz 3: 0
+				
+				Quiz 4: 78
+				
+				Quiz 5: 10
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				Student ID: 6999
+				
+				Quiz 1: 0
+				
+				Quiz 2: 98
+				
+				Quiz 3: 89
+				
+				Quiz 4: 78
+				
+				Quiz 5: 20
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 
+				
+				
+				
+				
+		<REQ 3 - Driver3.java>
+		<TEST RUN #2 - The program serializes all the StudentGrades, and then deserializes and prints a specific student's score given their student ID #, and also prints the quiz statistics >
+				
+				Seralizing...
+				1234.txt
+				2134.txt
+				3124.txt
+				4532.txt
+				5678.txt
+				6134.txt
+				7874.txt
+				8026.txt
+				9893.txt
+				1947.txt
+				2877.txt
+				3189.txt
+				4602.txt
+				5405.txt
+				6999.txt
+				done!
+				
+				––––––––––––––––––––––––––––––––––––––––––––––
+				
+				Deserializing...
+				1234.txt
+				done!
+				
+				Student ID: 1234
+				
+				Quiz 1: 52
+				
+				Quiz 2: 7
+				
+				Quiz 3: 100
+				
+				Quiz 4: 78
+				
+				Quiz 5: 34
+				––––––––––––––––––––––––––––––––––––––––––––––
+				
+				Deserializing...
+				2134.txt
+				done!
+				
+				
+				Lowest Scores: 0 7 0 32 10 
+				Highest Scores: 100 100 100 90 80 
+				Average Scores: 46.20 42.33 70.47 75.67 49.73 

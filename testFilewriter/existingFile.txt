@@ -1,0 +1,7 @@
+
+1st LINE - write
+2nd LINE - null
+3rd LINE - null
+1st LINE - write
+2nd LINE - null
+3rd LINE - null

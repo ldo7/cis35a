@@ -1,0 +1,18 @@
+
+		<REQ 1 - Driver1.java>
+		<TEST RUN #1 - The user tries to read a file that does not exist, and must input an already existing file name such as StudentData.txt>
+	
+		<Inside Console - This is what the user sees>
+				Inside main
+				Attempting to Open filedoesnotexist.txt....
+				
+				Hmmmm, seems like there's a problem.....
+				
+				OOPS! File does not exist. Please input an existing file name ending with .txt
+				
+				StudentData.txt
+				Attempting to Open StudentData.txt....
+				Now it is done! Your file had been found.
+		<Inside file that logs all exceptions - errorLog.txt >
+				
+				FixProblems [errorno=0, errormsg=null]	                                                                                        

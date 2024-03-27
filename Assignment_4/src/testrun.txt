@@ -1,0 +1,52 @@
+<Driver1.java THIS CODE TESTS AND INSTANTIATES SAVINGSACCOUNT OBJECTS>
+
+		<TEST RUN #1 - THE INTIAL INTEREST RATE IS 4% FOR THE 1ST MONTH, THEN INCREASES TO 5% FOR THE 2ND MONTH>    
+				~~~ SAVINGS ACCOUNT #1 ~~~
+				MONTH #1
+				Total Balance: 2006.67
+				
+				MONTH #2
+				Total Balance: 2015.03
+				
+				~~~ SAVINGS ACCOUNT #2 ~~~
+				MONTH #1
+				Total Balance: 3010.00
+				
+				MONTH #2
+				Total Balance: 3022.54
+
+<Driver2.java THIS CODE TESTS AND INSTANTIATES SPECIALSAVINGS OBJECTS>
+
+		<TEST RUN #1 - THE USER'S BALANCE IS INITIALLY UNDER 10K, BUT THEN DEPOSITS MONEY SO BALANCE IS OVER 10K AND INTEREST INCREASES 
+						ACCORDINGLY, AND THEN WITHDRAWS ENOUGH SO BALANCE IN UNDER 10K AGAIN AND INTREST DECREASED TO NORMAL RATE>
+						
+				~~~ SPECIAL SAVINGS ACCOUNT #1 ~~~
+				MONTH #1
+				Total Balance: 2006.67
+				Annual Interest: 4.0%
+				
+				MONTH #2
+				Deposit: 9000.00
+				Total Balance: 11098.39
+				Annual Interest: 10.0%
+				
+				MONTH #3
+				Withdraw: 11000.00
+				Total Balance: 98.72
+				Annual Interest: 4.0%
+				
+				~~~ SPECIAL SAVINGS ACCOUNT #2 ~~~
+				MONTH #1
+				Total Balance: 3010.00
+				Annual Interest: 4.0%
+				
+				MONTH #2
+				Deposit: 10000.00
+				Total Balance: 13118.42
+				Annual Interest: 10.0%
+				
+				MONTH #3
+				Deposit: 300.00
+				Total Balance: 13530.24
+				Annual Interest: 10.0%
+			                                                                     

@@ -1,0 +1,47 @@
+<GenomeInput.java & HumanGenome.java - THIS CODE CREATES 3 HUMAN GENOMES, ASKS THE USER TO INPUT EACH OF THEIR GENETIC INFORMATION, AND THEN PRINTS IT>
+
+		<TEST RUN #1 - User inputs the genetic data for 3 different people>
+			What is the genome name?
+			Human Bob
+			How many genes are there?
+			20000
+			How many chromosomes are there?
+			46
+			How many cells are in their body in terms of trillions?
+			76
+			
+			Genome Name: Human Bob
+			Number of Genes: 20000
+			Number of Chromosomes: 46
+			Number of cells (in trillions): 76
+			
+			What is the genome name?
+			Human Sally
+			How many genes are there?
+			20000
+			How many chromosomes are there?
+			46
+			How many cells are in their body in terms of trillions?
+			120
+			
+			Genome Name: Human Sally
+			Number of Genes: 20000
+			Number of Chromosomes: 46
+			Number of cells (in trillions): 120
+			
+			What is the genome name?
+			Human Sri
+			How many genes are there?
+			20000
+			How many chromosomes are there?
+			46
+			How many cells are in their body in terms of trillions?
+			75
+			
+			Genome Name: Human Sri
+			Number of Genes: 20000
+			Number of Chromosomes: 46
+			Number of cells (in trillions): 75
+			
+                                                          
+	                                                                                        

@@ -1,0 +1,47 @@
+<Driver.java and Person.java - THIS CODE CREATES 3 PEOPLE, ASKS THE USER to input EACH OF THEIR PERSONAL INFORMATION, AND THEN PRINTS IT>
+
+		<TEST RUN #1 - user inputs the name, age, address, and phone number of 3 different people>
+				What is your name?
+				John Doe
+				What is your age?
+				43
+				What is your address?
+				123 Night Ave.
+				What is your phone number?
+				(000)000-0000
+				
+				Name: John Doe
+				Age: 43
+				Phone Number: (000)000-0000
+				Address: 123 Night Ave.
+				
+				What is your name?
+				Mary 
+				What is your age?
+				16
+				What is your address?
+				456 Day Drive, San Jose CA 95129
+				What is your phone number?
+				(408)123-4567
+				
+				Name: Mary 
+				Age: 16
+				Phone Number: (408)123-4567
+				Address: 456 Day Drive, San Jose CA 95129
+				
+				What is your name?
+				Jack K.
+				What is your age?
+				100
+				What is your address?
+				San Francisco
+				What is your phone number?
+				1(222)888-8888
+				
+				Name: Jack K.
+				Age: 100
+				Phone Number: 1(222)888-8888
+				Address: San Francisco
+			
+                                                                      
+	                                                                                        
